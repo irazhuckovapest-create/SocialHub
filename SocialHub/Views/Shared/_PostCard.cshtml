@@ -1,0 +1,20 @@
+﻿@model SocialHub.Models.Post
+@{
+    string shortText = Model.Text;
+    if (shortText.Length > 100)
+    {
+        shortText = shortText.Substring(0, 100) + "...";
+    }
+}
+
+<div class="card post-card mb-3">
+    <div class="card-body">
+        <h5 class="post-title">@Model.Title</h5>
+        <p class="mb-2">
+            <span class="post-author">@Model.Author</span>
+            <span class="post-date"> · @Model.CreatedAt.ToString("dd.MM.yyyy HH:mm")</span>
+        </p>
+        <p class="card-text">@shortText</p>
+        <a asp-controller="Posts" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-main btn-sm">Читати далі</a>
+    </div>
+</div>

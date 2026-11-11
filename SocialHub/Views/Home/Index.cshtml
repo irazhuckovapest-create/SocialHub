@@ -1,0 +1,16 @@
+﻿@model List<SocialHub.Models.Post>
+@{
+    ViewData["Title"] = "Головна";
+}
+
+<h1 class="page-title">Стрічка постів</h1>
+
+@if (Model.Count == 0)
+{
+    <p>Постів поки немає. <a asp-controller="Posts" asp-action="Create">Створити перший пост</a></p>
+}
+
+@foreach (var post in Model)
+{
+    <partial name="_PostCard" model="post" />
+}

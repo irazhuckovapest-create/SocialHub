@@ -1,0 +1,98 @@
+/* /Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-m37uo3n6q2] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-m37uo3n6q2] {
+  color: #0077cc;
+}
+
+.btn-primary[b-m37uo3n6q2] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-m37uo3n6q2], .nav-pills .show > .nav-link[b-m37uo3n6q2] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-m37uo3n6q2] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-m37uo3n6q2] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-m37uo3n6q2] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-m37uo3n6q2] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-m37uo3n6q2] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* /Views/Shared/_PostCard.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-fg3or920wv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-fg3or920wv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-fg3or920wv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-fg3or920wv], .nav-pills .show > .nav-link[b-fg3or920wv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-fg3or920wv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fg3or920wv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-fg3or920wv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-fg3or920wv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-fg3or920wv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
