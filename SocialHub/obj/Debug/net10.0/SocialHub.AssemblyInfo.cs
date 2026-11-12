@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocialHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+912a198cfbbbe1cebc517a933fe413a175c7b851")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocialHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocialHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

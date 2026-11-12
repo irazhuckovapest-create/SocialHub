@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\SocialHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,20 +71,8 @@
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\socialhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\migrations\\20261111134819_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\migrations\\20261111134819_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|c:\\users\\acer\\source\\repos\\socialhub\\socialhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17D9E7A6-BACF-5C5C-D865-D84116959706}|SocialHub\\SocialHub.csproj|solutionrelative:socialhub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,15 +82,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Program.cs",
+              "RelativeDocumentMoniker": "SocialHub\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Program.cs",
+              "RelativeToolTip": "SocialHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:46:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SocialHub\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SocialHub\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-11T14:35:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\appsettings.json",
+              "RelativeToolTip": "SocialHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T13:46:21.323Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialHub\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Models\\Post.cs",
+              "RelativeToolTip": "SocialHub\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:44:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Posts\\Edit.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Posts\\Edit.cshtml",
@@ -107,37 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Program.cs",
-              "RelativeDocumentMoniker": "SocialHub\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Program.cs",
-              "RelativeToolTip": "SocialHub\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:46:52.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "SocialHub\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Models\\Post.cs",
-              "RelativeToolTip": "SocialHub\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:44:38.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CommentsController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Controllers\\CommentsController.cs",
               "RelativeDocumentMoniker": "SocialHub\\Controllers\\CommentsController.cs",
@@ -150,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Posts\\Index.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Posts\\Index.cshtml",
@@ -163,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SocialHub\\Controllers\\HomeController.cs",
@@ -176,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Home\\Privacy.cshtml",
@@ -189,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Posts\\Create.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Posts\\Create.cshtml",
@@ -202,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Posts\\Details.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Posts\\Details.cshtml",
@@ -215,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "_PostCard.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Shared\\_PostCard.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Shared\\_PostCard.cshtml",
@@ -229,19 +251,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "SocialHub\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "SocialHub\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-11T14:35:54.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Home\\Index.cshtml",
@@ -254,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SocialHub\\Views\\Shared\\_Layout.cshtml",
@@ -267,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "SocialHub\\Controllers\\PostsController.cs",
@@ -280,20 +289,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SocialHub",
+              "DocumentIndex": 16,
+              "Title": "SocialHub.csproj",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\SocialHub.csproj",
               "RelativeDocumentMoniker": "SocialHub\\SocialHub.csproj",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\SocialHub.csproj",
               "RelativeToolTip": "SocialHub\\SocialHub.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-11T14:05:02.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "SocialHub\\Models\\Comment.cs",
@@ -306,33 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20261111134819_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Migrations\\20261111134819_InitialCreate.cs",
-              "RelativeDocumentMoniker": "SocialHub\\Migrations\\20261111134819_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Migrations\\20261111134819_InitialCreate.cs",
-              "RelativeToolTip": "SocialHub\\Migrations\\20261111134819_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:48:19.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\appsettings.json",
-              "RelativeDocumentMoniker": "SocialHub\\appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\appsettings.json",
-              "RelativeToolTip": "SocialHub\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-11T13:46:21.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SocialHub\\SocialHub\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SocialHub\\Data\\AppDbContext.cs",
